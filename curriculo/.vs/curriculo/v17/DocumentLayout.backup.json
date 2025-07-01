@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\pages\\sobre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:pages\\sobre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|c:\\users\\2023102020053\\documents\\github\\pds_git\\curriculo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA1FBDBF-2261-4874-AEF9-CF65FBB51819}|curriculo.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +50,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:51:20.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "wwwroot\\css\\site.css*",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-01T20:02:35.764Z",
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:50:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sobre.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Sobre.razor",
+              "RelativeDocumentMoniker": "Pages\\Sobre.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Sobre.razor",
+              "RelativeToolTip": "Pages\\Sobre.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:39:51.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T19:49:10.079Z",
               "EditorCaption": ""
             },
             {
@@ -63,44 +110,8 @@
               "RelativeToolTip": "Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:50:47.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\Index.razor",
-              "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:49:10.079Z",
+              "WhenOpened": "2025-07-01T19:50:47.979Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Host.cshtml",
-              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\_Host.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
-              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Pages\\_Host.cshtml",
-              "RelativeToolTip": "Pages\\_Host.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:28:08.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Shared\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:26:46.271Z"
             },
             {
               "$type": "Document",
@@ -110,9 +121,36 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T19:24:59.281Z"
+              "WhenOpened": "2025-07-01T19:24:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAHQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-01T20:02:35.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\pds_git\\curriculo\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T19:26:46.271Z",
+              "EditorCaption": ""
             }
           ]
         }
