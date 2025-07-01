@@ -66,3 +66,10 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+img{
+    border-radius: 60%;
+    width: 200px;
+    align-items: center;
+    padding-block-end: 20px;
+}
